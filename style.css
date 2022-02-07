@@ -12,10 +12,26 @@ h1 {
 .maindiv {
     background-color: white;
     color: black;
-    width: 400px;
+    width: 500px;
     padding: 20px;
     border-radius: 25px;
     margin: 0 auto;
 }
 
+.innerdiv {
+    padding: 10px 60px 10px 60px;
+}
 
+.formlabel {
+    width: 120px;
+    display: inline-block;
+}
+
+.formrow {
+    margin: 10px 0 10px 0;
+}
+
+#result {
+    display: inline-block;
+    margin-top: 10px;
+}
